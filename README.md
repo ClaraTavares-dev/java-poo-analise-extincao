@@ -5,7 +5,7 @@ A ideia do projeto é representar raças de animais e permitir a análise de ris
 - **Encapsulamento** → atributos privados acessados e modificados por getters e setters.  
 - **Construtor** → inicializa objetos com valores específicos ao serem criados.  
 - **Métodos** → realizam operações sobre o objeto, como verificar se a raça está em risco de extinção.
-- **Vetor**  → armazenamento e manipulação de várias raças em uma mesma estrutura.  
+- **Array**  → armazenamento e manipulação de várias raças em uma mesma estrutura.  
 
 ## ⚙️ Funcionalidades
 - Cadastrar uma raça com ID, nome, espécie e país de origem.  
