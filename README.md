@@ -1,4 +1,4 @@
-# 🐾 Raça (Java/POO)
+# 🐾 Classe Raça (Java/POO)
 
 A ideia do projeto é representar raças de animais e permitir a análise de risco de extinção, utilizando conceitos de:  
 
